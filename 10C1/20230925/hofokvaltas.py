@@ -1,4 +1,3 @@
-
 valasz = input("Add meg hogyan szertnél váltan (FC/CF): ")
 homerseklet = input("Add meg a hőmérsékletet: ")
 homerseklet = float(homerseklet)
