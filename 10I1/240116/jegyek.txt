@@ -1,0 +1,5 @@
+Kovács Pista;3.2
+Kiss Gábor;4.2
+Horváth János;3.3
+Aranyos Aranka;4.9
+Merész Márton;2.9

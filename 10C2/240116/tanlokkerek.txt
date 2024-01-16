@@ -1,0 +1,15 @@
+Név: Kovács Pista
+Jegy: 3
+----------------------
+Név: Kiss Gábor
+Jegy: 4
+----------------------
+Név: Horváth János
+Jegy: 3
+----------------------
+Név: Aranyos Aranka
+Jegy: 4
+----------------------
+Név: Merész Márton
+Jegy: 2
+----------------------
