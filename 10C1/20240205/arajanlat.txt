@@ -1,0 +1,16 @@
+Ajtó típusa: Maahagoni
+Ajtó ára: 27000.0 Ft
+Méret: 150x300 cm
+-----------------------
+Ajtó típusa: Gerébtokos
+Ajtó ára: 8400.0 Ft
+Méret: 100x140 cm
+-----------------------
+Ajtó típusa: Ciprus
+Ajtó ára: 9720.0 Ft
+Méret: 90x180 cm
+-----------------------
+Ajtó típusa: Fenyő
+Ajtó ára: 12000.0 Ft
+Méret: 200x100 cm
+-----------------------

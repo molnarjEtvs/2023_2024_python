@@ -1,0 +1,300 @@
+Dex szám: #: 1
+Név: Bulbasaur
+Erő: 100
+Képesség: gurulás
+Ugrási magasság: 265.5
+--------------------------
+Dex szám: #: 2
+Név: Ivysaur
+Erő: 120
+Képesség: lövés
+Ugrási magasság: 318.6
+--------------------------
+Dex szám: #: 3
+Név: Venusaur
+Erő: 130
+Képesség: gurulás
+Ugrási magasság: 345.15
+--------------------------
+Dex szám: #: 4
+Név: Charmander
+Erő: 190
+Képesség: párolgás
+Ugrási magasság: 504.45
+--------------------------
+Dex szám: #: 5
+Név: Charmeleon
+Erő: 100
+Képesség: tűzhányás
+Ugrási magasság: 265.5
+--------------------------
+Dex szám: #: 6
+Név: Charizard
+Erő: 150
+Képesség: párolgás
+Ugrási magasság: 398.25
+--------------------------
+Dex szám: #: 7
+Név: Squirtle
+Erő: 140
+Képesség: párolgás
+Ugrási magasság: 371.7
+--------------------------
+Dex szám: #: 8
+Név: Wartortle
+Erő: 160
+Képesség: lövés
+Ugrási magasság: 424.8
+--------------------------
+Dex szám: #: 9
+Név: Blastoise
+Erő: 130
+Képesség: gurulás
+Ugrási magasság: 345.15
+--------------------------
+Dex szám: #: 10
+Név: Caterpie
+Erő: 110
+Képesség: lövés
+Ugrási magasság: 292.05
+--------------------------
+Dex szám: #: 11
+Név: Metapod
+Erő: 200
+Képesség: lövés
+Ugrási magasság: 531.0
+--------------------------
+Dex szám: #: 12
+Név: Butterfree
+Erő: 300
+Képesség: tűzhányás
+Ugrási magasság: 796.5
+--------------------------
+Dex szám: #: 13
+Név: Weedle
+Erő: 310
+Képesség: tűzhányás
+Ugrási magasság: 823.05
+--------------------------
+Dex szám: #: 14
+Név: Kakuna
+Erő: 480
+Képesség: gurulás
+Ugrási magasság: 1274.4
+--------------------------
+Dex szám: #: 15
+Név: Beedrill
+Erő: 512
+Képesség: párolgás
+Ugrási magasság: 1359.3600000000001
+--------------------------
+Dex szám: #: 16
+Név: Pidgey
+Erő: 128
+Képesség: lövés
+Ugrási magasság: 339.84000000000003
+--------------------------
+Dex szám: #: 17
+Név: Pidgeotto
+Erő: 345
+Képesség: gurulás
+Ugrási magasság: 915.975
+--------------------------
+Dex szám: #: 18
+Név: Pidgeot
+Erő: 158
+Képesség: párolgás
+Ugrási magasság: 419.49
+--------------------------
+Dex szám: #: 19
+Név: Rattata
+Erő: 963
+Képesség: gurulás
+Ugrási magasság: 2556.765
+--------------------------
+Dex szám: #: 20
+Név: Raticate
+Erő: 888
+Képesség: gurulás
+Ugrási magasság: 2357.64
+--------------------------
+Dex szám: #: 21
+Név: Spearow
+Erő: 444
+Képesség: lövés
+Ugrási magasság: 1178.82
+--------------------------
+Dex szám: #: 22
+Név: Fearow
+Erő: 333
+Képesség: párolgás
+Ugrási magasság: 884.115
+--------------------------
+Dex szám: #: 23
+Név: Ekans
+Erő: 222
+Képesség: tűzhányás
+Ugrási magasság: 589.41
+--------------------------
+Dex szám: #: 24
+Név: Arbok
+Erő: 111
+Képesség: tűzhányás
+Ugrási magasság: 294.705
+--------------------------
+Dex szám: #: 25
+Név: Pikachu
+Erő: 245
+Képesség: gurulás
+Ugrási magasság: 650.475
+--------------------------
+Dex szám: #: 26
+Név: Raichu
+Erő: 345
+Képesség: gurulás
+Ugrási magasság: 915.975
+--------------------------
+Dex szám: #: 27
+Név: Sandshrew
+Erő: 555
+Képesség: tűzhányás
+Ugrási magasság: 1473.525
+--------------------------
+Dex szám: #: 28
+Név: Sandslash
+Erő: 619
+Képesség: tűzhányás
+Ugrási magasság: 1643.445
+--------------------------
+Dex szám: #: 29
+Név: Nidoran
+Erő: 183
+Képesség: párolgás
+Ugrási magasság: 485.865
+--------------------------
+Dex szám: #: 30
+Név: Nidorina
+Erő: 115
+Képesség: tűzhányás
+Ugrási magasság: 305.325
+--------------------------
+Dex szám: #: 31
+Név: Nidoqueen
+Erő: 425
+Képesség: lövés
+Ugrási magasság: 1128.375
+--------------------------
+Dex szám: #: 32
+Név: Nidoran
+Erő: 392
+Képesség: lövés
+Ugrási magasság: 1040.76
+--------------------------
+Dex szám: #: 33
+Név: Nidorino
+Erő: 180
+Képesség: lövés
+Ugrási magasság: 477.9
+--------------------------
+Dex szám: #: 34
+Név: Nidoking
+Erő: 190
+Képesség: párolgás
+Ugrási magasság: 504.45
+--------------------------
+Dex szám: #: 35
+Név: Clefairy
+Erő: 215
+Képesség: gurulás
+Ugrási magasság: 570.825
+--------------------------
+Dex szám: #: 36
+Név: Clefable
+Erő: 183
+Képesség: gurulás
+Ugrási magasság: 485.865
+--------------------------
+Dex szám: #: 37
+Név: Vulpix
+Erő: 458
+Képesség: tűzhányás
+Ugrási magasság: 1215.99
+--------------------------
+Dex szám: #: 38
+Név: Ninetales
+Erő: 555
+Képesség: párolgás
+Ugrási magasság: 1473.525
+--------------------------
+Dex szám: #: 39
+Név: Jigglypuff
+Erő: 333
+Képesség: lövés
+Ugrási magasság: 884.115
+--------------------------
+Dex szám: #: 40
+Név: Wigglytuff
+Erő: 325
+Képesség: tűzhányás
+Ugrási magasság: 862.875
+--------------------------
+Dex szám: #: 41
+Név: Zubat
+Erő: 458
+Képesség: lövés
+Ugrási magasság: 1215.99
+--------------------------
+Dex szám: #: 42
+Név: Golbat
+Erő: 963
+Képesség: párolgás
+Ugrási magasság: 2556.765
+--------------------------
+Dex szám: #: 43
+Név: Oddish
+Erő: 185
+Képesség: gurulás
+Ugrási magasság: 491.175
+--------------------------
+Dex szám: #: 44
+Név: Gloom
+Erő: 568
+Képesség: tűzhányás
+Ugrási magasság: 1508.04
+--------------------------
+Dex szám: #: 45
+Név: Vileplume
+Erő: 963
+Képesség: párolgás
+Ugrási magasság: 2556.765
+--------------------------
+Dex szám: #: 46
+Név: Paras
+Erő: 478
+Képesség: lövés
+Ugrási magasság: 1269.09
+--------------------------
+Dex szám: #: 47
+Név: Parasect
+Erő: 258
+Képesség: tűzhányás
+Ugrási magasság: 684.99
+--------------------------
+Dex szám: #: 48
+Név: Venonat
+Erő: 963
+Képesség: lövés
+Ugrási magasság: 2556.765
+--------------------------
+Dex szám: #: 49
+Név: Venomoth
+Erő: 183
+Képesség: párolgás
+Ugrási magasság: 485.865
+--------------------------
+Dex szám: #: 50
+Név: Diglett
+Erő: 966
+Képesség: tűzhányás
+Ugrási magasság: 2564.73
+--------------------------

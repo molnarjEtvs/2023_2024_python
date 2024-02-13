@@ -1,0 +1,300 @@
+Dex szám: #1
+Név: Bulbasaur
+Erő: 100 pont
+Képesség: párolgás
+Ugrási magasság: 265.5 m
+----------------------------
+Dex szám: #2
+Név: Ivysaur
+Erő: 120 pont
+Képesség: párolgás
+Ugrási magasság: 318.6 m
+----------------------------
+Dex szám: #3
+Név: Venusaur
+Erő: 130 pont
+Képesség: tűzhányás
+Ugrási magasság: 345.15 m
+----------------------------
+Dex szám: #4
+Név: Charmander
+Erő: 190 pont
+Képesség: gurulás
+Ugrási magasság: 504.45 m
+----------------------------
+Dex szám: #5
+Név: Charmeleon
+Erő: 100 pont
+Képesség: gurulás
+Ugrási magasság: 265.5 m
+----------------------------
+Dex szám: #6
+Név: Charizard
+Erő: 150 pont
+Képesség: tűzhányás
+Ugrási magasság: 398.25 m
+----------------------------
+Dex szám: #7
+Név: Squirtle
+Erő: 140 pont
+Képesség: lövés
+Ugrási magasság: 371.7 m
+----------------------------
+Dex szám: #8
+Név: Wartortle
+Erő: 160 pont
+Képesség: tűzhányás
+Ugrási magasság: 424.8 m
+----------------------------
+Dex szám: #9
+Név: Blastoise
+Erő: 130 pont
+Képesség: gurulás
+Ugrási magasság: 345.15 m
+----------------------------
+Dex szám: #10
+Név: Caterpie
+Erő: 110 pont
+Képesség: tűzhányás
+Ugrási magasság: 292.05 m
+----------------------------
+Dex szám: #11
+Név: Metapod
+Erő: 200 pont
+Képesség: lövés
+Ugrási magasság: 531.0 m
+----------------------------
+Dex szám: #12
+Név: Butterfree
+Erő: 300 pont
+Képesség: gurulás
+Ugrási magasság: 796.5 m
+----------------------------
+Dex szám: #13
+Név: Weedle
+Erő: 310 pont
+Képesség: tűzhányás
+Ugrási magasság: 823.05 m
+----------------------------
+Dex szám: #14
+Név: Kakuna
+Erő: 480 pont
+Képesség: tűzhányás
+Ugrási magasság: 1274.4 m
+----------------------------
+Dex szám: #15
+Név: Beedrill
+Erő: 512 pont
+Képesség: párolgás
+Ugrási magasság: 1359.3600000000001 m
+----------------------------
+Dex szám: #16
+Név: Pidgey
+Erő: 128 pont
+Képesség: gurulás
+Ugrási magasság: 339.84000000000003 m
+----------------------------
+Dex szám: #17
+Név: Pidgeotto
+Erő: 345 pont
+Képesség: tűzhányás
+Ugrási magasság: 915.975 m
+----------------------------
+Dex szám: #18
+Név: Pidgeot
+Erő: 158 pont
+Képesség: tűzhányás
+Ugrási magasság: 419.49 m
+----------------------------
+Dex szám: #19
+Név: Rattata
+Erő: 963 pont
+Képesség: gurulás
+Ugrási magasság: 2556.765 m
+----------------------------
+Dex szám: #20
+Név: Raticate
+Erő: 888 pont
+Képesség: lövés
+Ugrási magasság: 2357.64 m
+----------------------------
+Dex szám: #21
+Név: Spearow
+Erő: 444 pont
+Képesség: tűzhányás
+Ugrási magasság: 1178.82 m
+----------------------------
+Dex szám: #22
+Név: Fearow
+Erő: 333 pont
+Képesség: tűzhányás
+Ugrási magasság: 884.115 m
+----------------------------
+Dex szám: #23
+Név: Ekans
+Erő: 222 pont
+Képesség: párolgás
+Ugrási magasság: 589.41 m
+----------------------------
+Dex szám: #24
+Név: Arbok
+Erő: 111 pont
+Képesség: gurulás
+Ugrási magasság: 294.705 m
+----------------------------
+Dex szám: #25
+Név: Pikachu
+Erő: 245 pont
+Képesség: tűzhányás
+Ugrási magasság: 650.475 m
+----------------------------
+Dex szám: #26
+Név: Raichu
+Erő: 345 pont
+Képesség: lövés
+Ugrási magasság: 915.975 m
+----------------------------
+Dex szám: #27
+Név: Sandshrew
+Erő: 555 pont
+Képesség: párolgás
+Ugrási magasság: 1473.525 m
+----------------------------
+Dex szám: #28
+Név: Sandslash
+Erő: 619 pont
+Képesség: gurulás
+Ugrási magasság: 1643.445 m
+----------------------------
+Dex szám: #29
+Név: Nidoran
+Erő: 183 pont
+Képesség: lövés
+Ugrási magasság: 485.865 m
+----------------------------
+Dex szám: #30
+Név: Nidorina
+Erő: 115 pont
+Képesség: tűzhányás
+Ugrási magasság: 305.325 m
+----------------------------
+Dex szám: #31
+Név: Nidoqueen
+Erő: 425 pont
+Képesség: lövés
+Ugrási magasság: 1128.375 m
+----------------------------
+Dex szám: #32
+Név: Nidoran
+Erő: 392 pont
+Képesség: lövés
+Ugrási magasság: 1040.76 m
+----------------------------
+Dex szám: #33
+Név: Nidorino
+Erő: 180 pont
+Képesség: tűzhányás
+Ugrási magasság: 477.9 m
+----------------------------
+Dex szám: #34
+Név: Nidoking
+Erő: 190 pont
+Képesség: tűzhányás
+Ugrási magasság: 504.45 m
+----------------------------
+Dex szám: #35
+Név: Clefairy
+Erő: 215 pont
+Képesség: lövés
+Ugrási magasság: 570.825 m
+----------------------------
+Dex szám: #36
+Név: Clefable
+Erő: 183 pont
+Képesség: párolgás
+Ugrási magasság: 485.865 m
+----------------------------
+Dex szám: #37
+Név: Vulpix
+Erő: 458 pont
+Képesség: párolgás
+Ugrási magasság: 1215.99 m
+----------------------------
+Dex szám: #38
+Név: Ninetales
+Erő: 555 pont
+Képesség: lövés
+Ugrási magasság: 1473.525 m
+----------------------------
+Dex szám: #39
+Név: Jigglypuff
+Erő: 333 pont
+Képesség: tűzhányás
+Ugrási magasság: 884.115 m
+----------------------------
+Dex szám: #40
+Név: Wigglytuff
+Erő: 325 pont
+Képesség: gurulás
+Ugrási magasság: 862.875 m
+----------------------------
+Dex szám: #41
+Név: Zubat
+Erő: 458 pont
+Képesség: gurulás
+Ugrási magasság: 1215.99 m
+----------------------------
+Dex szám: #42
+Név: Golbat
+Erő: 963 pont
+Képesség: lövés
+Ugrási magasság: 2556.765 m
+----------------------------
+Dex szám: #43
+Név: Oddish
+Erő: 185 pont
+Képesség: párolgás
+Ugrási magasság: 491.175 m
+----------------------------
+Dex szám: #44
+Név: Gloom
+Erő: 568 pont
+Képesség: tűzhányás
+Ugrási magasság: 1508.04 m
+----------------------------
+Dex szám: #45
+Név: Vileplume
+Erő: 963 pont
+Képesség: tűzhányás
+Ugrási magasság: 2556.765 m
+----------------------------
+Dex szám: #46
+Név: Paras
+Erő: 478 pont
+Képesség: lövés
+Ugrási magasság: 1269.09 m
+----------------------------
+Dex szám: #47
+Név: Parasect
+Erő: 258 pont
+Képesség: párolgás
+Ugrási magasság: 684.99 m
+----------------------------
+Dex szám: #48
+Név: Venonat
+Erő: 963 pont
+Képesség: párolgás
+Ugrási magasság: 2556.765 m
+----------------------------
+Dex szám: #49
+Név: Venomoth
+Erő: 183 pont
+Képesség: lövés
+Ugrási magasság: 485.865 m
+----------------------------
+Dex szám: #50
+Név: Diglett
+Erő: 966 pont
+Képesség: párolgás
+Ugrási magasság: 2564.73 m
+----------------------------
