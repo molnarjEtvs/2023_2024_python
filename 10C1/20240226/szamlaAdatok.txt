@@ -1,0 +1,140 @@
+Ügyfél neve: Mickey Mouse
+Egyenleg: 39633 Ft
+Számlavezetési díj: 51 Ft
+#######################
+Ügyfél neve: Donald Duck
+Egyenleg: 64541 Ft
+Számlavezetési díj: 33 Ft
+#######################
+Ügyfél neve: Goofy
+Egyenleg: 88577 Ft
+Számlavezetési díj: 63 Ft
+#######################
+Ügyfél neve: Minnie Mouse
+Egyenleg: 30640 Ft
+Számlavezetési díj: 60 Ft
+#######################
+Ügyfél neve: Pluto
+Egyenleg: 76546 Ft
+Számlavezetési díj: 54 Ft
+#######################
+Ügyfél neve: Daisy Duck
+Egyenleg: 47889 Ft
+Számlavezetési díj: 62 Ft
+#######################
+Ügyfél neve: Scrooge McDuck
+Egyenleg: 36350 Ft
+Számlavezetési díj: 52 Ft
+#######################
+Ügyfél neve: Chip
+Egyenleg: 70178 Ft
+Számlavezetési díj: 50 Ft
+#######################
+Ügyfél neve: Dale
+Egyenleg: 86898 Ft
+Számlavezetési díj: 65 Ft
+#######################
+Ügyfél neve: Huey
+Egyenleg: 41787 Ft
+Számlavezetési díj: 65 Ft
+#######################
+Ügyfél neve: Dewey
+Egyenleg: 82042 Ft
+Számlavezetési díj: 56 Ft
+#######################
+Ügyfél neve: Louie
+Egyenleg: 54716 Ft
+Számlavezetési díj: 50 Ft
+#######################
+Ügyfél neve: Clarabelle Cow
+Egyenleg: 66421 Ft
+Számlavezetési díj: 57 Ft
+#######################
+Ügyfél neve: Pete
+Egyenleg: 50081 Ft
+Számlavezetési díj: 41 Ft
+#######################
+Ügyfél neve: Max Goof
+Egyenleg: 82133 Ft
+Számlavezetési díj: 37 Ft
+#######################
+Ügyfél neve: Horace Horsecollar
+Egyenleg: 36063 Ft
+Számlavezetési díj: 61 Ft
+#######################
+Ügyfél neve: Clarice
+Egyenleg: 51418 Ft
+Számlavezetési díj: 41 Ft
+#######################
+Ügyfél neve: Morty Fieldmouse
+Egyenleg: 96827 Ft
+Számlavezetési díj: 37 Ft
+#######################
+Ügyfél neve: Ferdie Fieldmouse
+Egyenleg: 83119 Ft
+Számlavezetési díj: 42 Ft
+#######################
+Ügyfél neve: Webby Vanderquack
+Egyenleg: 70465 Ft
+Számlavezetési díj: 50 Ft
+#######################
+Ügyfél neve: Launchpad McQuack
+Egyenleg: 47227 Ft
+Számlavezetési díj: 64 Ft
+#######################
+Ügyfél neve: Gyro Gearloose
+Egyenleg: 71885 Ft
+Számlavezetési díj: 32 Ft
+#######################
+Ügyfél neve: Gus Goose
+Egyenleg: 69020 Ft
+Számlavezetési díj: 53 Ft
+#######################
+Ügyfél neve: Jose Carioca
+Egyenleg: 52004 Ft
+Számlavezetési díj: 54 Ft
+#######################
+Ügyfél neve: Panchito Pistoles
+Egyenleg: 82267 Ft
+Számlavezetési díj: 63 Ft
+#######################
+Ügyfél neve: Clara Cluck
+Egyenleg: 88878 Ft
+Számlavezetési díj: 64 Ft
+#######################
+Ügyfél neve: Darkwing Duck
+Egyenleg: 74866 Ft
+Számlavezetési díj: 59 Ft
+#######################
+Ügyfél neve: Gadget Hackwrench
+Egyenleg: 55909 Ft
+Számlavezetési díj: 52 Ft
+#######################
+Ügyfél neve: Monterey Jack
+Egyenleg: 64199 Ft
+Számlavezetési díj: 51 Ft
+#######################
+Ügyfél neve: Zipper
+Egyenleg: 32843 Ft
+Számlavezetési díj: 73 Ft
+#######################
+Ügyfél neve: Baloo
+Egyenleg: 57936 Ft
+Számlavezetési díj: 56 Ft
+#######################
+Ügyfél neve: Kit Cloudkicker
+Egyenleg: 80385 Ft
+Számlavezetési díj: 59 Ft
+#######################
+Ügyfél neve: Rebecca Cunningham
+Egyenleg: 70664 Ft
+Számlavezetési díj: 52 Ft
+#######################
+Ügyfél neve: Molly Cunningham
+Egyenleg: 69017 Ft
+Számlavezetési díj: 67 Ft
+#######################
+Ügyfél neve: Magica De Spell
+Egyenleg: 81026 Ft
+Számlavezetési díj: 68 Ft
+#######################

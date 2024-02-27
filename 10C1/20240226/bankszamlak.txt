@@ -1,0 +1,35 @@
+Mickey Mouse;42379
+Donald Duck;65243
+Goofy;87432
+Minnie Mouse;32548
+Pluto;74129
+Daisy Duck;49871
+Scrooge McDuck;38295
+Chip;67542
+Dale;92348
+Huey;46193
+Dewey;78456
+Louie;53029
+Clarabelle Cow;68723
+Pete;49135
+Max Goof;81239
+Horace Horsecollar;39647
+Clarice;54231
+Morty Fieldmouse;93672
+Ferdie Fieldmouse;82035
+Webby Vanderquack;67294
+Launchpad McQuack;49372
+Gyro Gearloose;72193
+Gus Goose;68451
+Jose Carioca;53692
+Panchito Pistoles;82463
+Clara Cluck;93572
+Darkwing Duck;74936
+Gadget Hackwrench;59824
+Monterey Jack;68491
+Zipper;37284
+Baloo;59321
+Kit Cloudkicker;82947
+Rebecca Cunningham;71523
+Molly Cunningham;69324
+Magica De Spell;83291
