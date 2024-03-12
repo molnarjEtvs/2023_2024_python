@@ -1,0 +1,4 @@
+110|2|frost mat
+100|3|silent step
+125|1|maestro cam
+110|2|Kiba barrier
