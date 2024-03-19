@@ -1,0 +1,210 @@
+Süni;vegyes;300;db
+Gesztenyealagút;vegyes;500;db
+Sajtos pogácsa;sós teasütemény;3300;kg
+Diós-mákos;bejgli;3500;koszorú
+Sajttorta (málnás);torta;9000;12 szeletes
+Citrom;torta;3900;8 szeletes
+Citrom;torta;7400;16 szeletes
+Citrom;torta;11400;24 szeletes
+Eszterházy;tortaszelet;490;db
+Rákóczi-túrós;pite;400;db
+Meggyes kocka;tejszínes sütemény;450;db
+Legényfogó;torta;12100;24 szeletes
+Legényfogó;torta;4300;8 szeletes
+Legényfogó;torta;8200;16 szeletes
+Alpesi karamell;tortaszelet;490;db
+Kókuszcsók;édes teasütemény;3400;kg
+Habos mákos;pite;400;db
+Szilvás;pite;350;db
+Juhtúrós párna;sós teasütemény;5000;kg
+Mákos guba;tortaszelet;530;db
+Néró;édes teasütemény;3400;kg
+Sacher;tortaszelet;490;db
+Citrom;tortaszelet;450;db
+Ribizlihabos-almás réteges;különleges torta;4700;8 szeletes
+Három kívánság;torta;5700;8 szeletes
+Három kívánság;torta;5700;8 szeletes
+Dobos;torta;9000;16 szeletes
+Dobos;torta;13200;24 szeletes
+Dobos;torta;4700;8 szeletes
+Epres mascarpone;tortaszelet;550;db
+Csokoládémousse;torta;11400;24 szeletes
+Csokoládémousse;torta;3900;8 szeletes
+Csokoládémousse;torta;7400;16 szeletes
+Oroszkrém;torta;8200;16 szeletes
+Oroszkrém;torta;4300;8 szeletes
+Oroszkrém;torta;12100;24 szeletes
+Medvetalp;vegyes;400;db
+Trüffel;torta;15400;24 szeletes
+Trüffel;torta;10400;16 szeletes
+Trüffel;torta;5400;8 szeletes
+Tejszínes gyümölcsös (meggy);torta;8200;16 szeletes
+Tejszínes gyümölcsös (meggy);torta;4300;8 szeletes
+Tejszínes gyümölcsös (meggy);torta;12100;24 szeletes
+Mákos-szilvalekváros;bejgli;3500;koszorú
+Ribizlihabos-?almá?s réteges tortaszelet;tortaszelet;530;db
+Marcipános vágott;édes teasütemény;5200;kg
+Indiáner;vegyes;500;db
+Meggyes;pite;350;db
+Mákos;bejgli;1700;rúd
+Sós karamella;torta;4700;8 szeletes
+Sós karamella;torta;13200;24 szeletes
+Sós karamella;torta;9000;16 szeletes
+Legényfogó;tortaszelet;490;db
+Rigó Jancsi;torta;3900;8 szeletes
+Rigó Jancsi;torta;7400;16 szeletes
+Rigó Jancsi;torta;11400;24 szeletes
+Tejszínes gyümölcsös (erdei gyümölcs);torta;4300;8 szeletes
+Tejszínes gyümölcsös (erdei gyümölcs);torta;8200;16 szeletes
+Tejszínes gyümölcsös (erdei gyümölcs);torta;12100;24 szeletes
+Ez+Az (csokoládé és gesztenye);torta;13200;24 szeletes
+Ez+Az (csokoládé és gesztenye);torta;9000;16 szeletes
+Ez+Az (csokoládé és gesztenye);torta;4700;8 szeletes
+Málnás mascarpone;torta;5700;8 szeletes
+Málnás mascarpone;torta;16200;24 szeletes
+Málnás mascarpone;torta;10900;16 szeletes
+Dobos;tortaszelet;530;db
+Ferrero;torta;16200;24 szeletes
+Ferrero;torta;10900;16 szeletes
+Ferrero;torta;5700;8 szeletes
+Vegyes házi pite falatok;pite;4200;kg
+Ökörszem;édes teasütemény;3800;kg
+Danubius kocka;tejszínes sütemény;450;db
+Sajtkrémmel töltött fánkocska;sós teasütemény;5200;kg
+Túrókrém gyümölccsel díszítve;tortaszelet;490;db
+Almás;pite;350;db
+Mignon;vegyes;250;db
+Csokoládémousse fényes csokoládéval;torta;13400;24 szeletes
+Csokoládémousse fényes csokoládéval;torta;9200;16 szeletes
+Csokoládémousse fényes csokoládéval;torta;4900;8 szeletes
+Vágott sós (sós omlós);sós teasütemény;4000;kg
+Nagyi sós;sós teasütemény;5000;kg
+Vegyes sós;sós teasütemény;4200;kg
+Somlói;tortaszelet;580;db
+Tiramisu;tortaszelet;600;db
+Hegyvidék;tortaszelet;600;db
+Szedres csokoládé;tortaszelet;530;db
+Pogácsák vegyesen;sós teasütemény;3200;kg
+Lúdláb;torta;13200;24 szeletes
+Lúdláb;torta;9000;16 szeletes
+Lúdláb;torta;4700;8 szeletes
+Sacher;torta;8200;16 szeletes
+Sacher;torta;12100;24 szeletes
+Sacher;torta;4300;8 szeletes
+Eszterházy;torta;8400;16 szeletes
+Eszterházy;torta;12200;24 szeletes
+Eszterházy;torta;4500;8 szeletes
+Zalavári gesztenye;tortaszelet;600;db
+Gesztenyegolyó;vegyes;350;db
+Pisztáciás-málnás mascarpone;tortaszelet;750;db
+Habos mákos;vegyes;400;db
+Franciakrémes;krémes;350;
+Gesztenye kocka;tejszínes sütemény;500;db
+Pisztáciás-málnás mascarpone;torta;18400;24 szeletes
+Pisztáciás-málnás mascarpone;torta;6400;8 szeletes
+Pisztáciás-málnás mascarpone;torta;12400;16 szeletes
+Málnás kocka;tejszínes sütemény;450;db
+Sajttorta (málnás);tortaszelet;700;db
+Túrókrém gyümölccsel;torta;7400;16 szeletes
+Túrókrém gyümölccsel;torta;3900;8 szeletes
+Túrókrém gyümölccsel;torta;11400;24 szeletes
+Csokis kaland;különleges torta;5700;8 szeletes
+Somlói;torta;5400;8 szeletes
+Palermo;torta;7400;16 szeletes
+Palermo;torta;3900;8 szeletes
+Palermo;torta;11400;24 szeletes
+Szilvalekváros;bejgli;2100;rúd
+Ünnepi diótorta grillázzsal;torta;10900;16 szeletes
+Ünnepi diótorta grillázzsal;torta;5700;8 szeletes
+Ünnepi diótorta grillázzsal;torta;16200;24 szeletes
+Oroszkrém;tortaszelet;490;db
+Mini zserbó;édes teasütemény;4200;kg
+Sajtos masni;sós teasütemény;4000;kg
+Zserbó;pite;350;db
+Tejszínes gyümölcsös (málna);torta;8200;16 szeletes
+Tejszínes gyümölcsös (málna);torta;4300;8 szeletes
+Tejszínes gyümölcsös (málna);torta;12100;24 szeletes
+Marcipános csokoládé;torta;5700;8 szeletes
+Marcipános csokoládé;torta;16200;24 szeletes
+Marcipános csokoládé;torta;10900;16 szeletes
+Csokis kaland;tortaszelet;650;db
+Marcipán tekercs;édes teasütemény;5200;kg
+Képviselőfánk;vegyes;500;db
+Epres omlett;vegyes;600;db
+Mini linzer;édes teasütemény;3400;kg
+Linzerkarika;vegyes;300;db
+Szedres csokoládé;torta;13200;24 szeletes
+Szedres csokoládé;torta;9000;16 szeletes
+Szedres csokoládé;torta;4700;8 szeletes
+Narancsív;édes teasütemény;5200;kg
+Gesztenyepüré;vegyes;800;20 dkg
+Palermo;tejszínes sütemény;450;db
+Csokis néró;édes teasütemény;4200;kg
+Flódni;pite;400;db
+Mézeskalács;torta;16200;24 szeletes
+Mézeskalács;torta;5700;8 szeletes
+Mézeskalács;torta;10900;16 szeletes
+Olívás pogácsa;sós teasütemény;3300;kg ??
+Florentin;édes teasütemény;5200;kg
+Tiramisu;torta;10400;16 szeletes
+Tiramisu;torta;15400;24 szeletes
+Tiramisu;torta;5400;8 szeletes
+Zoli kedvence (vágott édes tea);édes teasütemény;4600;kg
+Erdei gyümölcs kocka;tejszínes sütemény;450;db
+Rákóczi-túrós;tortaszelet;400;db
+Mézeskrémes;pite;330;db
+Trüffel;tortaszelet;650;db
+Szilvás papucs;édes teasütemény;4200;kg
+Zalavári gesztenye;torta;10900;16 szeletes
+Zalavári gesztenye;torta;5700;8 szeletes
+Danubius;torta;4300;8 szeletes
+Danubius;torta;12100;24 szeletes
+Danubius;torta;8200;16 szeletes
+Alpesi karamell;torta;12200;24 szeletes
+Alpesi karamell;torta;8400;16 szeletes
+Alpesi karamell;torta;4500;8 szeletes
+Puncs;torta;11400;24 szeletes
+Puncs;torta;3900;8 szeletes
+Puncs;torta;7400;16 szeletes
+Gesztenye szív;vegyes;300;db
+Ez+Az (csokoládé és gesztenye);tortaszelet;530;db
+Tökmagos félhold;sós teasütemény;3300;kg
+Burgonyás pogácsa;sós teasütemény;2900;kg
+Somlói galuska;vegyes;850;db
+Puncs;tortaszelet;450;db
+Lekváros vágott;édes teasütemény;3600;kg
+Oreo;torta;16200;24 szeletes
+Oreo;torta;5700;8 szeletes
+Oreo;torta;10900;16 szeletes
+Vintage;torta;9900;16 szeletes
+Rigó Jancsi;tejszínes sütemény;450;db
+Feketeerdő;torta;9000;16 szeletes
+Feketeerdő;torta;13200;24 szeletes
+Feketeerdő;torta;4700;8 szeletes
+Kókuszos vágott;édes teasütemény;3400;kg
+Feketeerdő;tortaszelet;530;db
+Moscauer;édes teasütemény;5200;kg
+Diós;bejgli;1800;rúd
+Rákóczi-túrós;torta;3900;8 szeletes
+Rákóczi-túrós;torta;7400;16 szeletes
+Rákóczi-túrós;torta;11400;24 szeletes
+Három kívánság;különleges torta;5700;8 szeletes
+Gesztenyés-karamellás;bejgli;2100;rúd
+Gesztenyés szív;édes teasütemény;4400;kg
+Ropi;sós teasütemény;4000;kg
+Paleolit étcsokoládé;különleges torta;5300;8 szeletes
+Túrós;pite;350;db
+Ischler;vegyes;250;db
+Lúdláb;tortaszelet;530;db
+Csokoládémousse;tortaszelet;450;db
+Dió;torta;4700;8 szeletes
+Dió;torta;9000;16 szeletes
+Dió;torta;13200;24 szeletes
+Krémes;krémes;250;db
+Krémes;krémes;400;db
+Mini ischler;édes teasütemény;3400;kg
+Paleolit étcsokoládé;tortaszelet;600;db
+Tejfölös túrós hajtogatott;sós teasütemény;4400;kg
+Mákos guba;torta;4700;8 szeletes
+mákos;bejgli;500;db
+diós;bejgli;500;db

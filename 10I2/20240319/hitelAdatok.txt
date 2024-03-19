@@ -1,0 +1,105 @@
+Ügyfélszám: 80714
+Név: Kovács László
+Összeg: 100000 Ft
+THM: 14.100000000000001%
+Kamatkedvezmény: 2%
+Havi törlesztő: 4754 Ft
+++++++++++++++++++++++++++++++++++++++
+Ügyfélszám: 21388
+Név: Nagy Anna
+Összeg: 50000 Ft
+THM: 19.0%
+Kamatkedvezmény: 0%
+Havi törlesztő: 1653 Ft
+++++++++++++++++++++++++++++++++++++++
+Ügyfélszám: 59251
+Név: Tóth István
+Összeg: 75000 Ft
+THM: 11.0%
+Kamatkedvezmény: 0%
+Havi törlesztő: 6938 Ft
+++++++++++++++++++++++++++++++++++++++
+Ügyfélszám: 26428
+Név: Szabó Éva
+Összeg: 200000 Ft
+THM: 6.300000000000001%
+Kamatkedvezmény: 2%
+Havi törlesztő: 4429 Ft
+++++++++++++++++++++++++++++++++++++++
+Ügyfélszám: 90109
+Név: Varga Tamás
+Összeg: 150000 Ft
+THM: 12.0%
+Kamatkedvezmény: 2%
+Havi törlesztő: 9333 Ft
+++++++++++++++++++++++++++++++++++++++
+Ügyfélszám: 70351
+Név: Kiss Péter
+Összeg: 30000 Ft
+THM: 23.4%
+Kamatkedvezmény: 2%
+Havi törlesztő: 6170 Ft
+++++++++++++++++++++++++++++++++++++++
+Ügyfélszám: 54221
+Név: Balogh Gábor
+Összeg: 80000 Ft
+THM: 18.0%
+Kamatkedvezmény: 2%
+Havi törlesztő: 3933 Ft
+++++++++++++++++++++++++++++++++++++++
+Ügyfélszám: 66331
+Név: Kerekes Zsolt
+Összeg: 120000 Ft
+THM: 12.0%
+Kamatkedvezmény: 0%
+Havi törlesztő: 11200 Ft
+++++++++++++++++++++++++++++++++++++++
+Ügyfélszám: 51376
+Név: Molnár Csilla
+Összeg: 250000 Ft
+THM: 10.0%
+Kamatkedvezmény: 0%
+Havi törlesztő: 7639 Ft
+++++++++++++++++++++++++++++++++++++++
+Ügyfélszám: 30012
+Név: Takács Zoltán
+Összeg: 50000 Ft
+THM: 13.0%
+Kamatkedvezmény: 2%
+Havi törlesztő: 4708 Ft
+++++++++++++++++++++++++++++++++++++++
+Ügyfélszám: 21247
+Név: Papp Ágnes
+Összeg: 60000 Ft
+THM: 19.0%
+Kamatkedvezmény: 2%
+Havi törlesztő: 1488 Ft
+++++++++++++++++++++++++++++++++++++++
+Ügyfélszám: 84027
+Név: Bíró Eszter
+Összeg: 90000 Ft
+THM: 18.0%
+Kamatkedvezmény: 0%
+Havi törlesztő: 4425 Ft
+++++++++++++++++++++++++++++++++++++++
+Ügyfélszám: 93859
+Név: Király Máté
+Összeg: 20000 Ft
+THM: 21.3%
+Kamatkedvezmény: 1%
+Havi törlesztő: 4043 Ft
+++++++++++++++++++++++++++++++++++++++
+Ügyfélszám: 12013
+Név: Mészáros Gergő
+Összeg: 100000 Ft
+THM: 8.4%
+Kamatkedvezmény: 1%
+Havi törlesztő: 3011 Ft
+++++++++++++++++++++++++++++++++++++++
+Ügyfélszám: 21472
+Név: Simon Gábor
+Összeg: 75000 Ft
+THM: 11.2%
+Kamatkedvezmény: 2%
+Havi törlesztő: 6950 Ft
+++++++++++++++++++++++++++++++++++++++
