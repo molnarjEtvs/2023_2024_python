@@ -1,0 +1,96 @@
+Név: Ash
+Rang: 35
+Szint: Gold II
+Hatékonyság: 19.2
+Kiváló
+#######################
+Név: Thermite
+Rang: 50
+Szint: Platinum III
+Hatékonyság: 35.5
+Kiváló
+#######################
+Név: Sledge
+Rang: 32
+Szint: Silver I
+Hatékonyság: 13.86
+Kiváló
+#######################
+Név: Mira
+Rang: 37
+Szint: Diamond
+Hatékonyság: 83.6
+Kiváló
+#######################
+Név: Jäger
+Rang: 30
+Szint: Gold I
+Hatékonyság: 80.76
+Kiváló
+#######################
+Név: Valkyrie
+Rang: 33
+Szint: Platinum II
+Hatékonyság: 69.22
+Kiváló
+#######################
+Név: Bandit
+Rang: 34
+Szint: Gold III
+Hatékonyság: 49.16
+Kiváló
+#######################
+Név: Rook
+Rang: 30
+Szint: Silver II
+Hatékonyság: 53.120000000000005
+Kiváló
+#######################
+Név: Frost
+Rang: 38
+Szint: Platinum I
+Hatékonyság: 80.60000000000001
+Kiváló
+#######################
+Név: Doc
+Rang: 34
+Szint: Gold IV
+Hatékonyság: 89.38
+Kiváló
+#######################
+Név: Pulse
+Rang: 38
+Szint: Silver III
+Hatékonyság: 102.36
+Kiváló
+#######################
+Név: Ela
+Rang: 44
+Szint: Diamond
+Hatékonyság: 87.61999999999999
+Kiváló
+#######################
+Név: Caveira
+Rang: 43
+Szint: Silver IV
+Hatékonyság: 54.38
+Kiváló
+#######################
+Név: Montagne
+Rang: 43
+Szint: Diamond
+Hatékonyság: 60.64
+Kiváló
+#######################
+Név: Hibana
+Rang: 49
+Szint: Champion
+Hatékonyság: 66.24
+Kiváló
+#######################
+Név: Mute
+Rang: 28
+Szint: Bronze I
+Hatékonyság: 73.82
+Kiváló
+#######################

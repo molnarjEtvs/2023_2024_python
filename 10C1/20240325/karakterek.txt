@@ -1,0 +1,16 @@
+Ash,35,Gold II,15.4
+Thermite,32,Platinum III,33.3
+Sledge,28,Silver I,10.9
+Mira,37,Diamond,80.8
+Jäger,30,Gold I,78.2
+Valkyrie,33,Platinum II,66.1
+Bandit,29,Gold III,45.3
+Rook,26,Silver II,49.2
+Frost,31,Platinum I,77.4
+Doc,34,Gold IV,86.5
+Pulse,27,Silver III,98.6
+Ela,36,Diamond,84.6
+Caveira,25,Silver IV,50.5
+Montagne,38,Diamond,56.9
+Hibana,39,Champion,63.4
+Mute,24,Bronze I,71.0

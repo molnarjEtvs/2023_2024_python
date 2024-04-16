@@ -1,0 +1,120 @@
+Ügyfélszám: 20672
+Név: Kovács László
+Összeg: 100000 Ft
+Futamidő: 24 hó
+THM: 16.1 %
+Kamatkedvezmény: 0 %
+Havi törlesztő: 71250 Ft
++++++++++++++++++++++++++++++++
+Ügyfélszám: 35484
+Név: Nagy Anna
+Összeg: 50000 Ft
+Futamidő: 36 hó
+THM: 18.0 %
+Kamatkedvezmény: 1 %
+Havi törlesztő: 26389 Ft
++++++++++++++++++++++++++++++++
+Ügyfélszám: 96400
+Név: Tóth István
+Összeg: 75000 Ft
+Futamidő: 12 hó
+THM: 9.0 %
+Kamatkedvezmény: 2 %
+Havi törlesztő: 62500 Ft
++++++++++++++++++++++++++++++++
+Ügyfélszám: 92579
+Név: Szabó Éva
+Összeg: 200000 Ft
+Futamidő: 48 hó
+THM: 7.300000000000001 %
+Kamatkedvezmény: 1 %
+Havi törlesztő: 34583 Ft
++++++++++++++++++++++++++++++++
+Ügyfélszám: 66828
+Név: Varga Tamás
+Összeg: 150000 Ft
+Futamidő: 18 hó
+THM: 14.0 %
+Kamatkedvezmény: 0 %
+Havi törlesztő: 125000 Ft
++++++++++++++++++++++++++++++++
+Ügyfélszám: 87482
+Név: Kiss Péter
+Összeg: 30000 Ft
+Futamidő: 6 hó
+THM: 25.4 %
+Kamatkedvezmény: 0 %
+Havi törlesztő: 132000 Ft
++++++++++++++++++++++++++++++++
+Ügyfélszám: 49682
+Név: Balogh Gábor
+Összeg: 80000 Ft
+Futamidő: 24 hó
+THM: 20.0 %
+Kamatkedvezmény: 0 %
+Havi törlesztő: 70000 Ft
++++++++++++++++++++++++++++++++
+Ügyfélszám: 93571
+Név: Kerekes Zsolt
+Összeg: 120000 Ft
+Futamidő: 12 hó
+THM: 12.0 %
+Kamatkedvezmény: 0 %
+Havi törlesztő: 130000 Ft
++++++++++++++++++++++++++++++++
+Ügyfélszám: 47402
+Név: Molnár Csilla
+Összeg: 250000 Ft
+Futamidő: 36 hó
+THM: 10.0 %
+Kamatkedvezmény: 0 %
+Havi törlesztő: 76389 Ft
++++++++++++++++++++++++++++++++
+Ügyfélszám: 92808
+Név: Takács Zoltán
+Összeg: 50000 Ft
+Futamidő: 12 hó
+THM: 13.0 %
+Kamatkedvezmény: 2 %
+Havi törlesztő: 58333 Ft
++++++++++++++++++++++++++++++++
+Ügyfélszám: 32253
+Név: Papp Ágnes
+Összeg: 60000 Ft
+Futamidő: 48 hó
+THM: 19.0 %
+Kamatkedvezmény: 2 %
+Havi törlesztő: 25000 Ft
++++++++++++++++++++++++++++++++
+Ügyfélszám: 81546
+Név: Bíró Eszter
+Összeg: 90000 Ft
+Futamidő: 24 hó
+THM: 17.0 %
+Kamatkedvezmény: 1 %
+Havi törlesztő: 67500 Ft
++++++++++++++++++++++++++++++++
+Ügyfélszám: 51663
+Név: Király Máté
+Összeg: 20000 Ft
+Futamidő: 6 hó
+THM: 22.3 %
+Kamatkedvezmény: 0 %
+Havi törlesztő: 77667 Ft
++++++++++++++++++++++++++++++++
+Ügyfélszám: 56336
+Név: Mészáros Gergő
+Összeg: 100000 Ft
+Futamidő: 36 hó
+THM: 8.4 %
+Kamatkedvezmény: 1 %
+Havi törlesztő: 26111 Ft
++++++++++++++++++++++++++++++++
+Ügyfélszám: 14025
+Név: Simon Gábor
+Összeg: 75000 Ft
+Futamidő: 12 hó
+THM: 11.2 %
+Kamatkedvezmény: 2 %
+Havi törlesztő: 76250 Ft
++++++++++++++++++++++++++++++++
